@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/ominobianco/Training/_apis/build/status/crackitty.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ominobianco/Training/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/charlieroche/charlieroche/_apis/build/status/crackitty.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/charlieroche/charlieroche/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
