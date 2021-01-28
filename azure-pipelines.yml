@@ -9,7 +9,7 @@ trigger:
 pool:
   name: 'charlie-mac'
   demands:
-  - Agent.OS -equals Mac
+  - Agent.OS -equals Darwin
 
 variables:
   buildConfiguration: 'Release'
